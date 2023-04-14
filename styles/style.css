@@ -1,0 +1,15 @@
+.forms{
+    text-align: center;
+
+    margin-left: 340px;
+    margin-right: 340px;
+    margin-top: 40px;
+
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-block-end: 30px;
+
+    border-radius: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+}
